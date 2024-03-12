@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h2,h3,h4,h5{
+color:  lightgreen;
+  
+}
+h1{
+color: limegreen;
+  
+}
+body{
+background-color: 
+  honeydew;
+}
+button {
+  font-family: cursive;
+  font-size: 50px;
+  color: darkolivegreen;
+}
